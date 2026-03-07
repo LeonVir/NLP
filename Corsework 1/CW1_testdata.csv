@@ -1,0 +1,160 @@
+816,accept,acknowledge
+957,accept,recommend
+809,agree,argue
+911,agree,please
+242,alcohol,cocktail
+697,alcohol,wine
+2066,announcement,news
+2164,announcement,effort
+14,terrible,bad
+51,great,bad
+176,beach,seashore
+402,beach,sea
+278,beer,alcohol
+279,beer,beverage
+883,begin,quit
+966,begin,go
+633,car,elevator
+2026,car,automobile
+2030,coast,shore
+2154,coast,forest
+726,doctor,temper
+2008,doctor,nurse
+772,dollar,people
+2081,dollar,buck
+189,door,doorway
+496,door,floor
+24,dumb,foolish
+50,dumb,intelligent
+2018,football,soccer
+2019,football,basketball
+121,friend,buddy
+709,friend,mother
+813,give,lend
+977,give,steal
+248,god,devil
+264,god,spirit
+7,happy,glad
+27,happy,angry
+3,hard,difficult
+5,hard,easy
+203,house,apartment
+261,house,key
+791,ignore,avoid
+989,ignore,explore
+440,journey,conquest
+593,journey,trip
+819,keep,possess
+932,keep,borrow
+19,large,huge
+110,large,flexible
+823,leave,go
+842,leave,remain
+2039,money,dollar
+2149,money,operation
+117,plane,airport
+125,plane,jet
+155,river,stream
+373,river,valley
+62,sly,clever
+105,sly,tough
+2786,smart,intelligent
+16,smart,dumb
+274,stomach,waist
+774,stomach,bedroom
+642,student,professor
+2010,student,pupil
+542,task,job
+728,task,woman
+622,teacher,instructor
+623,teacher,rabbi
+2000,tiger,cat
+2001,tiger,tiger
+354,wealth,poverty
+501,wealth,abundance
+342,wood,paper
+2012,wood,forest
+4009,benchmark,desk
+4010,benchmark,result
+45,bird,hen
+4011,bird,man
+66,boy,lad
+63,boy,partner
+712,mortgage,funding
+713,mortgage,timber
+714,puddle,waterworks
+715,puddle,excavation
+718,gypsum,limestone
+719,gypsum,wharf
+10,weird,strange
+34,weird,normal
+908,keep,protect
+959,keep,give
+400,crime,violation
+5010,crime,radio
+901,drink,ear
+902,drink,water
+363,orthodontist,doctor
+6003,temper,doctor
+828,forget,dismiss
+5011,forget,remember
+5012,lunch,meal
+5013,lunch,desk
+5014,pharmacy,journalism
+5015,pharmacy,medicine
+5016,biographer,life
+5017,biographer,king
+5018,kidney,coffin
+5019,kidney,body
+332,beach,island
+422,beach,reef
+256,door,gate
+568,door,kitchen
+20,hard,tough
+15,hard,simple
+438,house,carpet
+555,house,barn
+2028,journey,voyage
+440,journey,conquest
+3005,college graduate,teacher
+3006,college graduate,job
+3007,girl,teenage couple
+3008,cat,teenage couple
+734,ship canal,barge canal
+735,ship canal,pencil
+736,storm surge,flood relief
+737,storm surge,sunny
+738,water transport,water supply
+739,water transport,desert
+740,timber bridge,ship
+741,timber bridge,printer
+744,high school,student
+745,high school,green
+94,chief executive officer,boss
+95,chief executive officer,daughter
+724,unthoughtful,thoughtless
+725,unthoughtful,happy
+746,arranged,dearranged
+727,distrubed,dearranged
+167,woman,secretary
+168,woman,wife
+730,replaster,plaster
+729,replaster,grass
+172,happy,cheerful
+173,happy,young
+175,car,highway
+177,car,cab
+178,bad,immoral
+179,bad,great
+181,accept,deliver
+182,accept,believe
+4012,journey,long distance
+4013,area,long distance
+5001,student,war criminal
+3002,jet,war criminal
+7001,flood relief,canal restoration
+7002,flood relief,horn
+7003,paddle gearing,lock gate
+7004,paddle gearing,reverse gates
+722,antipositivism,positive
+723,antipositivism,negativism

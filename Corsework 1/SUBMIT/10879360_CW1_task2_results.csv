@@ -1,0 +1,160 @@
+816,accept,acknowledge,0.6025214
+957,accept,recommend,0.49731594
+809,agree,argue,0.5402682
+911,agree,please,0.48928207
+242,alcohol,cocktail,0.500823
+697,alcohol,wine,0.55033696
+2066,announcement,news,0.53338355
+2164,announcement,effort,0.32602814
+14,terrible,bad,0.6454541
+51,great,bad,0.34721357
+176,beach,seashore,0.70663834
+402,beach,sea,0.45377344
+278,beer,alcohol,0.53795964
+279,beer,beverage,0.56648123
+883,begin,quit,0.4363393
+966,begin,go,0.41495752
+633,car,elevator,0.4461548
+2026,car,automobile,0.6422901
+2030,coast,shore,0.68437076
+2154,coast,forest,0.38255516
+726,doctor,temper,0.31010053
+2008,doctor,nurse,0.63249683
+772,dollar,people,0.2108858
+2081,dollar,buck,0.2903533
+189,door,doorway,0.7524738
+496,door,floor,0.6910713
+24,dumb,foolish,0.6610253
+50,dumb,intelligent,0.53108996
+2018,football,soccer,0.7511924
+2019,football,basketball,0.8169289
+121,friend,buddy,0.4940246
+709,friend,mother,0.6468943
+813,give,lend,0.58924747
+977,give,steal,0.4758287
+248,god,devil,0.5470127
+264,god,spirit,0.65657073
+7,happy,glad,0.59237576
+27,happy,angry,0.51091784
+3,hard,difficult,0.6127506
+5,hard,easy,0.6330504
+203,house,apartment,0.62443596
+261,house,key,0.22241497
+791,ignore,avoid,0.53780323
+989,ignore,explore,0.3990675
+440,journey,conquest,0.40137565
+593,journey,trip,0.7406578
+819,keep,possess,0.323781
+932,keep,borrow,0.38410202
+19,large,huge,0.6428269
+110,large,flexible,0.46833986
+823,leave,go,0.5629969
+842,leave,remain,0.5337697
+2039,money,dollar,0.47346094
+2149,money,operation,0.12652893
+117,plane,airport,0.49354303
+125,plane,jet,0.6793294
+155,river,stream,0.6416892
+373,river,valley,0.70071894
+62,sly,clever,0.52838033
+105,sly,tough,0.4607353
+2786,smart,intelligent,0.585778
+16,smart,dumb,0.6801102
+274,stomach,waist,0.41462192
+774,stomach,bedroom,0.39631024
+642,student,professor,0.63374275
+2010,student,pupil,0.6502366
+542,task,job,0.4963284
+728,task,woman,0.17718081
+622,teacher,instructor,0.75289154
+623,teacher,rabbi,0.5342471
+2000,tiger,cat,0.5327958
+2001,tiger,tiger,1.0000001
+354,wealth,poverty,0.5899708
+501,wealth,abundance,0.3458896
+342,wood,paper,0.37233382
+2012,wood,forest,0.39418775
+4009,benchmark,desk,0.48090672
+4010,benchmark,result,0.33657825
+45,bird,hen,0.3106917
+4011,bird,man,0.29596603
+66,boy,lad,0.55905545
+63,boy,partner,0.33183736
+712,mortgage,funding,0.5921844
+713,mortgage,timber,0.44299647
+714,puddle,waterworks,0.42396295
+715,puddle,excavation,0.2424596
+718,gypsum,limestone,0.66520303
+719,gypsum,wharf,0.46297815
+10,weird,strange,0.61931664
+34,weird,normal,0.22508122
+908,keep,protect,0.50758207
+959,keep,give,0.51296747
+400,crime,violation,0.460449
+5010,crime,radio,0.21607457
+901,drink,ear,0.27312112
+902,drink,water,0.51047
+363,orthodontist,doctor,0.31559354
+6003,temper,doctor,0.31010053
+828,forget,dismiss,0.36426237
+5011,forget,remember,0.6890435
+5012,lunch,meal,0.6337624
+5013,lunch,desk,0.4654637
+5014,pharmacy,journalism,0.49685118
+5015,pharmacy,medicine,0.7383307
+5016,biographer,life,0.4022619
+5017,biographer,king,0.25002956
+5018,kidney,coffin,0.298998
+5019,kidney,body,0.50287765
+332,beach,island,0.5589357
+422,beach,reef,0.66191924
+256,door,gate,0.65121615
+568,door,kitchen,0.650804
+20,hard,tough,0.68104327
+15,hard,simple,0.4930158
+438,house,carpet,0.358614
+555,house,barn,0.617281
+2028,journey,voyage,0.76691455
+440,journey,conquest,0.40137565
+3005,college graduate,teacher,0.6900621
+3006,college graduate,job,0.41529602
+3007,girl,teenage couple,0.67844164
+3008,cat,teenage couple,0.3959108
+734,ship canal,barge canal,0.84634197
+735,ship canal,pencil,0.22522004
+736,storm surge,flood relief,0.5941395
+737,storm surge,sunny,0.38238746
+738,water transport,water supply,0.82770586
+739,water transport,desert,0.40272528
+740,timber bridge,ship,0.3847337
+741,timber bridge,printer,0.21548943
+744,high school,student,0.67313814
+745,high school,green,0.24638781
+94,chief executive officer,boss,0.4714452
+95,chief executive officer,daughter,0.36263123
+724,unthoughtful,thoughtless,0.8164637
+725,unthoughtful,happy,0.5691767
+746,arranged,dearranged,0.9027034
+727,distrubed,dearranged,0.46859047
+167,woman,secretary,0.2506524
+168,woman,wife,0.5460941
+730,replaster,plaster,0.83935225
+729,replaster,grass,0.30478713
+172,happy,cheerful,0.58064866
+173,happy,young,0.45750275
+175,car,highway,0.29125267
+177,car,cab,0.64735985
+178,bad,immoral,0.4416033
+179,bad,great,0.34721357
+181,accept,deliver,0.4331025
+182,accept,believe,0.51926494
+4012,journey,long distance,0.41458696
+4013,area,long distance,0.41553658
+5001,student,war criminal,0.40639275
+3002,jet,war criminal,0.073137425
+7001,flood relief,canal restoration,0.47761416
+7002,flood relief,horn,0.15530208
+7003,paddle gearing,lock gate,0.5367848
+7004,paddle gearing,reverse gates,0.5672189
+722,antipositivism,positive,0.7459311
+723,antipositivism,negativism,0.89484316
